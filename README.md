@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### My name is Farkhat
 
-- 🔭 I’m currently working in Terra
 - 🌱 I’m currently studying at BMSTU
 - 👯 I’m looking to collaborate on Unity Projects
 - 🤔 I’m looking for help with .NET, .NET Core, Unity
