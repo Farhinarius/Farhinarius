@@ -20,4 +20,4 @@
 [![Farhinarius's github stats](https://github-readme-stats.vercel.app/api?username=farhinarius&count_private=true&show_icons=true&theme=vue&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhinarius&hide=c%2B%2B,ShaderLab,Qmake)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhinarius&hide=c%2B%2B,ShaderLab,Qmake,HLSL)](https://github.com/anuraghazra/github-readme-stats)<br>
