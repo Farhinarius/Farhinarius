@@ -1,13 +1,12 @@
 ### Hi there 👋
 ### My name is Farkhat
 
-- 🌱 I’m currently studying at BMSTU
-- 👯 I’m looking to collaborate on Unity Projects
-- 🤔 I’m looking for help with .NET, .NET Core, Unity
+- 👯 I’m looking to collaborate on Godot projects
+- 🤔 I’m looking for help with .NET, .NET Core, Godot
 
 <b>Languages and Tools:</b>
 <div>
-  <p><img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/unity-logo.jpg" width="60" height="60">
+  <p>
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/csharp.svg" width="60" height="60">
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/cpp.svg" width="60" height="60">
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/go.svg" width="60" height="60">
