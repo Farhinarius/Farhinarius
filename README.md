@@ -10,7 +10,6 @@
   <p>
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/csharp.svg" width="60" height="60">
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/godot.png" width="60" height="60">
-    <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/unity.png" width="60" height="60">
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/ruby.svg" width="60" height="60">
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/crystal.svg" width="60" height="60">
     <!-- <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/cpp.svg" width="60" height="60"> 
