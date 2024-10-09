@@ -5,10 +5,12 @@
 - 🚀 Currently working on game about conquering space: [Space Invasion](https://github.com/NikLalkaGames/galactic-invasion)
 - 👯 I’m looking to collaborate on .NET, ASP.NET, Godot projects
 
-<b>Favorite languages:</b>
+<b>Favorite technologies:</b>
 <div>
   <p>
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/csharp.svg" width="60" height="60">
+    <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/godot.svg" width="60" height="60">
+    <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/unity-logo.jpg" width="60" height="60">
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/ruby.svg" width="60" height="60">
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/crystal.svg" width="60" height="60">
     <!-- <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/cpp.svg" width="60" height="60"> 
