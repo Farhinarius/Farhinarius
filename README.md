@@ -2,7 +2,7 @@
 ### My name is Farkhat
 
 - 🎓 Master's degree of Computer Science | BMSTU
-- 🚀 Currently working on game about conquering space: [Space Invasion](https://github.com/NikLalkaGames/galactic-invasion)
+- 🚀 Currently working on game about conquering space: [Galactic Invasion](https://github.com/NikLalkaGames/galactic-invasion)
 - 👯 I’m looking to collaborate on .NET, ASP.NET, Godot projects
 
 <b>Favorite technologies:</b>
@@ -10,6 +10,7 @@
   <p>
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/csharp.svg" width="60" height="60">
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/godot.png" width="60" height="60">
+    <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/docker.svg" width="60" height="60">
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/ruby.svg" width="60" height="60">
     <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/crystal.svg" width="60" height="60">
     <!-- <img align="center" src="https://github.com/Farhinarius/Farhinarius/blob/master/Icons/cpp.svg" width="60" height="60"> 
